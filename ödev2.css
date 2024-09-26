@@ -1,0 +1,28 @@
+body {
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+.container{
+    background-color: rgba(223, 239, 247, 0.637);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.info{
+    text-align: center;
+    width: 100%;
+    font-size: large;
+    margin: 10px ;
+}
